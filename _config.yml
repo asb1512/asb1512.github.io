@@ -1,11 +1,11 @@
 # Site settings
 author: Andrew Bourgeois
-title: 
+title: Ironed Flat
 header-img: img/home-bg.png
 email: andrew@olympicmedia.com
 copyright_name: Andrew Bourgeois
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A coding journey through Flatiron's Software Development Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  asb1512
