@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Looping Explained to a 1st Grader"
-date:       2020-03-28 20:19:41 +0000
+date:       2020-03-28 16:19:43 -0400
 permalink:  looping_explained_to_a_1st_grader
 ---
 
