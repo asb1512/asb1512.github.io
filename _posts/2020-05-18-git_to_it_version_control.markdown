@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Git to It (Version Control)"
-date:       2020-05-18 17:28:20 +0000
+date:       2020-05-18 13:28:21 -0400
 permalink:  git_to_it_version_control
 ---
 
